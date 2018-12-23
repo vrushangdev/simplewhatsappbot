@@ -1,0 +1,4 @@
+selenium==3.141.0
+websocket==0.2.1
+websocket-client==0.54.0
+websockets==3.4
