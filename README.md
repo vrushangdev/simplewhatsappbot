@@ -1,4 +1,4 @@
-# simplewhatsappbot
+# simplewhatsappbot(Must Use Mozilla Firefox As Browser)
 >i dont plan to maintain this repo but it is **100% working** :) 
 # ![wpbot](https://github.com/vrushangdev/simplewhatsappbot/blob/master/download.jpg)
 # Go To Python Official Website :  python.org
